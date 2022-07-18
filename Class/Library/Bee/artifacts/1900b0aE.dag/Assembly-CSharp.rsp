@@ -351,14 +351,15 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/Kawaii Slime/Cameras/Scripts/AbstractTargetFollower.cs"
-"Assets/Kawaii Slime/Cameras/Scripts/FreeLookCam.cs"
-"Assets/Kawaii Slime/Cameras/Scripts/PivotBasedCameraRig.cs"
-"Assets/Kawaii Slime/Scripts/AI/EnemyAi.cs"
-"Assets/Kawaii Slime/Scripts/AI/Face.cs"
-"Assets/Kawaii Slime/Scripts/GameManager.cs"
-"Assets/Script/LifeCycle.cs"
-"Assets/Script/NewBehaviourScript.cs"
+"Assets/Animator & blend tree/Script Folder/AnimationAction.cs"
+"Assets/Array day1/Kawaii Slime/Cameras/Scripts/AbstractTargetFollower.cs"
+"Assets/Array day1/Kawaii Slime/Cameras/Scripts/FreeLookCam.cs"
+"Assets/Array day1/Kawaii Slime/Cameras/Scripts/PivotBasedCameraRig.cs"
+"Assets/Array day1/Kawaii Slime/Scripts/AI/EnemyAi.cs"
+"Assets/Array day1/Kawaii Slime/Scripts/AI/Face.cs"
+"Assets/Array day1/Kawaii Slime/Scripts/GameManager.cs"
+"Assets/Array day1/Script/LifeCycle.cs"
+"Assets/Array day1/Script/NewBehaviourScript.cs"
 -langversion:9.0
 
 /deterministic

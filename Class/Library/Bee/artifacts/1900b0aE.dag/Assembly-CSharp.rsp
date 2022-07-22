@@ -363,6 +363,8 @@
 "Assets/Array day1/Kawaii Slime/Scripts/GameManager.cs"
 "Assets/Array day1/Script/LifeCycle.cs"
 "Assets/Array day1/Script/NewBehaviourScript.cs"
+"Assets/Collision/Script/CharacterControll.cs"
+"Assets/Collision/Script/Sensor.cs"
 "Assets/NavMesh Agent/Script/Controller.cs"
 -langversion:9.0
 
